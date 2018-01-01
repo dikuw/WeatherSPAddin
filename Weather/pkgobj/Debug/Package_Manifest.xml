@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="24420e4a-0ca8-407e-a8c5-d0e807d9675d" SharePointProductVersion="16.0">
+  <FeatureManifests>
+    <FeatureManifest Location="Weather_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

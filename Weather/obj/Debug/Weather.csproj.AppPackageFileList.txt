@@ -1,0 +1,1 @@
+c:\users\mvasi\documents\visual studio 2015\Projects\Weather\Weather\bin\Debug\app.publish\1.0.0.0\Weather.app
